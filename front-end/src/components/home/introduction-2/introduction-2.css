@@ -1,0 +1,12 @@
+.introduction-2{
+    text-align: center;
+    padding: 8rem 0;
+}
+
+.introduction-2 p {
+    color: var(--deep-gray);
+}
+
+.introduction-2 h5{
+    margin: 1rem 0;
+}

@@ -1,0 +1,13 @@
+.introduction{
+    background: var(--purple);
+    color: var(--white);
+    padding: 10rem 0;
+}
+
+.introduction p {
+    color: var(--gray);
+}
+
+.introduction h2{
+    color: var(--white);
+}

@@ -1,0 +1,16 @@
+.main-banner{
+    background: var(--deep-blue);
+    font-family: "Roboto";
+    color: var(--white);
+    min-height: 800px;
+    padding: 3rem 0;
+}
+
+
+.main-banner h1{
+    color: var(--white);
+}
+
+.main-banner h4{
+    color: var(--white);
+}

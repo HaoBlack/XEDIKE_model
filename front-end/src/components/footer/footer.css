@@ -1,0 +1,22 @@
+.footer{
+    font-family: "Roboto";    
+}
+
+.footer .footer__list li{
+    display: flex;
+    line-height: 2;
+}
+
+.footer .footer__list li strong{
+    margin: 0 .8rem;
+}
+
+.footer .footer__list li a{
+    color: var(--gray);
+    transition: color .3s;
+    display: block;
+}
+
+.footer .footer__list li a:hover{
+    color: var(--black);
+}
